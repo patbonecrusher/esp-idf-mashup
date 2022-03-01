@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.5)
+
+include(/Users/pat/esp/esp-idf-4.4/tools/cmake/project.cmake)
+project(hello_world)
